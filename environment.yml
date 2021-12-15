@@ -1,0 +1,10 @@
+name: null
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyter
+  - ipykernel
